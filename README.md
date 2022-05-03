@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Animesh Kumar Rai
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning, Deep Learning & Computer Vision.
+- 👀 I’m interested in Data Science(ML/DL/CV/NLP)
+- 🌱 I do use Machine Learning to solve real time problems.
 - 💞️ I’m looking to collaborate on Github
 - 📫 Reach me at-> www.linkedin.com/in/animesh-rai8935
 
